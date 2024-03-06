@@ -1,1 +1,1 @@
-Run one of these files
+This project is tested with BrowserStack.
